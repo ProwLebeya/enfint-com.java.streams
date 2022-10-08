@@ -6,18 +6,18 @@ File Reader java program is responsible for copying all the contents of the spec
 
 ** To run the File Reader program**
 
-1: Run Command Prompt (CMD).
+1. Run Command Prompt (cmd).
 
-2: enter java in command line
+ 1.1.enter java in command line
 
-3: Pass the location of where the File Reader java program is loacted on your PC
+ 1.2. Pass the directpry of where the File Reader java program is located on your PC
 
-4: Pass the correct arguments that are require for running the File Reader programs on the command line
+2. Pass the correct arguments that are require for running the File Reader programs on the command line
 
-  A. First Argument is the folder or file in which you want to extract the content from.
-  B. Second Argument is the output file that you want to write the content on.
+  2.1. First Argument is the folder or file in which you want to extract the content from.
+  2.2. Second Argument is the output file that you want to write the content on.
 
   
-###Example
+##eg
 
 C:\Users\PromiseLebeya>java C:\Users\PromiseLebeya\Documents\Java\com\streams\DependencyCheck.java "C:\\Users\\PromiseLebeya\\Documents\\Java\\com\\streams/ParentFolder" "textFinaly.txt"
